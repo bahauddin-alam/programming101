@@ -1,4 +1,4 @@
-/* 3. Input with readline Common JS Module*/
+/* 3. Input with readline Common JS Module  CommonJS (Callback Pattern)*/
 
 const readline = require("readline");
 

@@ -1,4 +1,4 @@
-/* 4. Input with readline ES Module*/
+/* 4. Input with readline ES Module ES Module (Callback Pattern)*/
 
 import readline from "node:readline";
 

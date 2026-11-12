@@ -1,4 +1,4 @@
-/* 5. Input with readline (Promises) */
+/* 5. Input with readline ES Module (Promises & Top-Level Await Pattern)*/
 
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
